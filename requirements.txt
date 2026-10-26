@@ -1,0 +1,4 @@
+mne
+matplotlib
+numpy
+scikit-learn
